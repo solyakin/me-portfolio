@@ -1,7 +1,7 @@
 import { Arrow } from './Arrow'
 
 const projects = [
-  { number: '01', name: 'Admission Hub', type: 'Academic planning', description: 'A simplified application to guide admission processes for students to any institution.', impact: '30% less time spent on admission', stack: ['React', 'TypeScript', 'TanStack Query'], tone: 'coral', url: "https://vatebraadmissionhub.netlify.app/" },
+  { number: '01', name: 'Admission Hub', type: 'Academic planning', description: 'A simplified application to guide admission processes for students to any institution.', impact: '30% less time spent on admission', stack: ['React', 'TypeScript', 'TanStack Query'], tone: 'coral', url: "https://admissionhub.education" },
   { number: '02', name: '10mg Health', type: 'Healthcare credit', description: 'A collateral-free financing for clinics, pharmacies, and hospitals. with approval in minutes.', impact: 'access healthcare credit in minutes', stack: ['React', 'TypeScript', 'Playwright'], tone: 'blue', url: "https://www.10mg.ai/" },
   { number: '03', name: 'Koins App', type: 'Financial app product', description: 'A guided planning experience that turns complex investment data into confident next steps.', impact: '2.4x increase in user engagement',  stack: ['Next.js', 'D3', 'TypeScript'], tone: 'lime', url: "https://www.koinsbank.com" },
 ]
